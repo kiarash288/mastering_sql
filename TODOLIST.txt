@@ -1,0 +1,3 @@
+0- reviewing the past part 
+1- creating a database
+2- creating a migration file 
